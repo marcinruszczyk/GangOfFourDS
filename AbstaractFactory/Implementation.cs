@@ -7,13 +7,14 @@ using static AbstaractFactory.IDiscountService;
 
 namespace AbstaractFactory
 {
+    //AbstractFactory
     public interface IShoppingCartPurchaseFactory
     {
         IDiscountService CreateDiscountService();
         IShippingCostsService CreateShippingCostsService();
     }
 
-   
+   //AbstractProduct
     public interface IDiscountService
     {
         int DiscountPercentage { get; }
@@ -25,16 +26,20 @@ namespace AbstaractFactory
 
     }
 
+    //ConcreteProduct
     public class BelgiumDiscountService : IDiscountService
     {
         public int DiscountPercentage => 20;
     }
 
+
+    //ConcreteProduct
     public class FranceDiscountService : IDiscountService
     {
         public int DiscountPercentage => 10;
     }
 
+    //ConcreteProduct
     public class BelgiumShippingCostsService : IShippingCostsService 
     {
         public decimal ShippingCosts => 20;
@@ -61,7 +66,7 @@ namespace AbstaractFactory
         }
     }
 
-
+    //ConcreteFactory
     public class FranceShoppingCartPurchaseFactory : IShoppingCartPurchaseFactory
     {
         public IDiscountService CreateDiscountService()
