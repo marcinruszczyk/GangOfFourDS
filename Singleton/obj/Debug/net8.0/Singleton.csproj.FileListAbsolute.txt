@@ -1,0 +1,15 @@
+D:\AAA_DesignPattern\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\AAA_DesignPattern\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\AAA_DesignPattern\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\AAA_DesignPattern\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\AAA_DesignPattern\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.sourcelink.json
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\AAA_DesignPattern\Singleton\obj\Debug\net8.0\ref\Singleton.dll
