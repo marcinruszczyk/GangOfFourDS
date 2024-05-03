@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "..\Singleton\Singleton.csproj", "{90353555-CDC0-4F55-BBB6-296924F5BDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstaractFactory", "..\AbstaractFactory\AbstaractFactory.csproj", "{3C46B56D-3226-4C67-9000-BD41E9FAC555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90353555-CDC0-4F55-BBB6-296924F5BDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90353555-CDC0-4F55-BBB6-296924F5BDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90353555-CDC0-4F55-BBB6-296924F5BDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90353555-CDC0-4F55-BBB6-296924F5BDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C46B56D-3226-4C67-9000-BD41E9FAC555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C46B56D-3226-4C67-9000-BD41E9FAC555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C46B56D-3226-4C67-9000-BD41E9FAC555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C46B56D-3226-4C67-9000-BD41E9FAC555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8BA2D54-4C58-4C04-8160-BBBCD2C08730}
+	EndGlobalSection
+EndGlobal
