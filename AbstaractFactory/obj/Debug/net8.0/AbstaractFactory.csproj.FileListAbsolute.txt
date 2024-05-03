@@ -1,0 +1,15 @@
+D:\AAA_DesignPattern\AbstaractFactory\bin\Debug\net8.0\AbstaractFactory.exe
+D:\AAA_DesignPattern\AbstaractFactory\bin\Debug\net8.0\AbstaractFactory.deps.json
+D:\AAA_DesignPattern\AbstaractFactory\bin\Debug\net8.0\AbstaractFactory.runtimeconfig.json
+D:\AAA_DesignPattern\AbstaractFactory\bin\Debug\net8.0\AbstaractFactory.dll
+D:\AAA_DesignPattern\AbstaractFactory\bin\Debug\net8.0\AbstaractFactory.pdb
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.AssemblyInfoInputs.cache
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.AssemblyInfo.cs
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.csproj.CoreCompileInputs.cache
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.sourcelink.json
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.dll
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\refint\AbstaractFactory.dll
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.pdb
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\AbstaractFactory.genruntimeconfig.cache
+D:\AAA_DesignPattern\AbstaractFactory\obj\Debug\net8.0\ref\AbstaractFactory.dll
